@@ -15,7 +15,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - Sign Out
 
 <p align="center">
-  <img width="600" src="https://github.com/abdulkaiyum19/Instagram-Flutter-Clone-ak19.git">
+  <img width="600" src="screenshot.png">
 </p>
 
 
